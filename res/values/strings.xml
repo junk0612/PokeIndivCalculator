@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PokeIndivCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_indiv">個体値測定</string>
+    <string name="menu_guide">ポケモン図鑑</string>
+    <string name="menu_damage">ダメージ計算</string>
+    <string name="menu_status">ステータス計算</string>
+    <string name="menu_settings">設定</string>
+    <string name="indiv_pokeid_hint">No.</string>
+    <string name="indiv_pokename_hint">ポケモン名</string>
+    <string name="indiv_button_submit">決定</string>
+
+</resources>
